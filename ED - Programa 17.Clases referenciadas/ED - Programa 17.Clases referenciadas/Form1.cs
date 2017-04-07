@@ -43,8 +43,13 @@ namespace ED___Programa_17.Clases_referenciadas
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            if (inventario.buscar(txtCodigo.Text) != null)
-                txtMostrar.Text = inventario.buscar(txtCodigo.Text).ToString();
+            //Recuerda que las listas son estructuras un poco mas lentas que los vectores
+            //aqui haces una doble busqueda, entonces vamos a buscar una sola vez y usar el resultado, 
+            //imagina que ocupas el puro nombre y despues cantidad, entonces no podemos hacer dos o tres
+            //busquedas
+            Producto resultado=inventario.buscar(txtCodigo.Text); //buscamos una sola vez
+            if (resultado != null)
+                txtMostrar.Text = resultado.ToString(); //del resultado sacamos el toString y lo que ocupemos sin buscar de nuevo
             else
                 txtMostrar.Text = "No se encontró ese producto";
         }
