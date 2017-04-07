@@ -1,0 +1,18 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\bin\Debug\ED - Programa 17.Clases referenciadas.exe.config
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\bin\Debug\ED - Programa 17.Clases referenciadas.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\bin\Debug\ED - Programa 17.Clases referenciadas.pdb
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.csprojResolveAssemblyReference.cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED___Programa_17.Clases_referenciadas.Form1.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED___Programa_17.Clases_referenciadas.Properties.Resources.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.csproj.GenerateResource.Cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\bin\Debug\ED - Programa 17.Clases referenciadas.exe.config
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\bin\Debug\ED - Programa 17.Clases referenciadas.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\bin\Debug\ED - Programa 17.Clases referenciadas.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.csprojResolveAssemblyReference.cache
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED___Programa_17.Clases_referenciadas.Form1.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED___Programa_17.Clases_referenciadas.Properties.Resources.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 17.Clases referenciadas\ED - Programa 17.Clases referenciadas\obj\Debug\ED - Programa 17.Clases referenciadas.csproj.GenerateResource.Cache
