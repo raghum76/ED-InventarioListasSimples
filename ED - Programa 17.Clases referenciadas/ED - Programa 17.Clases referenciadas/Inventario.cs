@@ -34,6 +34,10 @@ namespace ED___Programa_17.Clases_referenciadas
             Producto auxiliar = _inicio;
             while (auxiliar.siguiente != null && codigo != auxiliar.codigo)
                 auxiliar = auxiliar.siguiente;
+            //si alguien quiere hacer una busqueda en el inventario vacio va a marcarte un error en la siguiente instruccion
+            //sería mejor preguntar si auxiliar es null, en este caso si estaba vacia o no existe se cumple y regresas null
+            //caso contrario regresas auxiliar, de hecho si regresas auxiliar sin preguntar también funciona
+            //pues en caso de no hallarlo será null
             if (auxiliar.codigo == codigo)
                 return auxiliar;
             else
@@ -74,6 +78,7 @@ namespace ED___Programa_17.Clases_referenciadas
                 return "No hay productos";
             else
             {
+                
                 string cadena = "";
                 Producto auxiliar = _inicio;
                 while (auxiliar.siguiente != null)
